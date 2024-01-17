@@ -12,6 +12,9 @@ The primary objectives of this assignment are:
 
 Through these goals, the assignment aims to provide a comprehensive understanding of word embeddings, from their theoretical underpinnings to practical implementation and training methods.
 
+### Assignment Report (ECE1786_Assignment_1_Report.pdf)
+- **Description**: A comprehensive PDF document that provides summaries and answers for questions and the resulting models.
+
 ### A1P1_2.py
 - **Description**: Implements the `print_closest_cosine_words` function. This function prints the N-most similar words using cosine similarity, contrasting it with Euclidean distance. It includes examples comparing the 10 most cosine-similar words to 'dog' and 'computer'.
 
