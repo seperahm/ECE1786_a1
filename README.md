@@ -1,16 +1,25 @@
-# ECE1786 Fall 2023 - Assignment 1: Word Embeddings - Properties, Meaning, and Training
+# ECE1786 Fall 2023 - Assignment 1: My Exploration of Word Embeddings
 
 ## Introduction
-Welcome to Assignment 1 of ECE1786 for the Fall 2023 term. This assignment focuses on the exploration and understanding of word embeddings, a fundamental concept in natural language processing and machine learning. Through this assignment, you will dive into the intricacies of word embeddings, exploring their properties, meanings, and the methods used for training them.
+Hello! This repository contains my work for Assignment 1 of the ECE1786 course, offered in Fall 2023. In this assignment, I delved into the fascinating world of word embeddings, exploring their properties, meanings, and training methodologies. This journey through natural language processing and machine learning has been both challenging and rewarding, offering deep insights into how machines can interpret and process human language.
 
-## Goals
-The primary objectives of this assignment are:
-1. **Understanding the Properties of Word Embeddings**: Gain insights into how word embeddings are structured and how their properties reflect linguistic relationships.
-2. **Exploring the Meaning in Word Embeddings**: Learn how to extract and interpret the semantic meaning from these embeddings.
-3. **Hands-on Training of Word Embeddings**: Implement and train word embeddings using techniques like the Skip-Gram method.
-4. **Advanced Concepts in Word Embedding Training**: For those interested, delve into more advanced topics like Skip-Gram with Negative Sampling.
+## Goals and Achievements
+Throughout this assignment, I aimed to achieve the following goals:
 
-Through these goals, the assignment aims to provide a comprehensive understanding of word embeddings, from their theoretical underpinnings to practical implementation and training methods.
+1. **Deciphering the Properties of Word Embeddings**: I explored the structure and linguistic relationships encapsulated in word embeddings, understanding their foundational role in NLP.
+
+2. **Extracting Meaning from Word Embeddings**: I learned how to interpret semantic meanings from word embeddings, which was particularly intriguing as it bridged the gap between raw data and human language comprehension.
+
+3. **Practical Training of Word Embeddings**: I implemented and trained word embeddings using the Skip-Gram method. This hands-on experience was invaluable in understanding the nuances of embedding training.
+
+4. **Exploring Advanced Concepts**: As an additional challenge, I explored advanced topics like Skip-Gram with Negative Sampling, which broadened my understanding of efficient training methods in NLP.
+
+I am excited to share my solutions and insights gained from this assignment. I hope this repository serves as a useful resource for anyone interested in the intricacies of word embeddings and their applications in natural language processing.
+
+---
+
+Feel free to explore my code and the accompanying documentation. Feedback and discussions are always welcome!
+
 
 ### Assignment Report (ECE1786_Assignment_1_Report.pdf)
 - **Description**: A comprehensive PDF document that provides summaries and answers for questions and the resulting models.
